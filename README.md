@@ -25,7 +25,7 @@ Untuk data yang digunakan pada proyek kali ini menggunakan data Marketing A/B Te
 3.  Sample Size
 4.  How Long Run Experiment
 ## E. Analyzing and Intepreting the Data
-- [Medium](https://medium.com/@khafidauliar/project-probability-data-tagihan-kesehatan-8a77b9ae825b)
+- [Medium](https://medium.com/@khafidauliar/a-b-testing-pada-kampanye-pemasaran-10f7113e48cc)
 - [Youtube]
 
 **Author** Copyright (c) 2023 Khafid Aulia Rahman
